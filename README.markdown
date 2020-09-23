@@ -19,6 +19,12 @@ distributions will likely have `pyxdg` or `python-xdg` in their software
 repositories.
 
 
+Web Archive
+-------------------
+
+[Archived Explanation](https://web.archive.org/web/20120618231113/http://www.micahcarrick.com/python-gtk-plugins-with-yapsy.html)
+
+
 Running the Example
 -------------------
 
